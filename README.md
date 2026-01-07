@@ -1,10 +1,11 @@
-# Galactui 🚀
+# Galactui
+[![galactui](/galactui.png)]
 
 Galactui is a retro-style, terminal-based space shooter game written in Go. It leverages the [Bubble Tea](https://github.com/charmbracelet/bubbletea) framework for the TUI (Terminal User Interface) and [Lip Gloss](https://github.com/charmbracelet/lipgloss) for styling.
 
 Experience classic arcade action directly in your terminal with smooth animations, sound effects, and intense boss battles.
 
-## ✨ Features
+## Features
 
 - **Classic Arcade Action**: Fast-paced shooting mechanics.
 - **Multiple Enemy Types**: Basic formations, ZigZag patterns, and Chasers.
@@ -45,7 +46,10 @@ You can download the pre-built binaries for your operating system from the [GitH
    ```
    *Note: If macOS blocks the app, you may need to allow it in System Settings > Privacy & Security.*
 
-## 🎮 How to Play
+## How to Play
+
+[![game-screen](/game-screen.png)]
+
 
 ### Controls
 | Key | Action |
@@ -59,7 +63,7 @@ You can download the pre-built binaries for your operating system from the [GitH
 - **Normal Mode**: Survive endless waves of enemies. Difficulty increases over time. Defeat bosses every 5 levels.
 - **Boss Rush**: Skip the minions and fight an endless stream of bosses with increasing difficulty.
 
-## 🛠️ Building from Source
+## Building from Source
 
 ### Prerequisites
 - Go (version 1.24 or higher)
