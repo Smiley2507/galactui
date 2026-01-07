@@ -1,5 +1,5 @@
 # Galactui
-[![galactui](/galactui.png)]
+![galactui](/galactui.png)
 
 Galactui is a retro-style, terminal-based space shooter game written in Go. It leverages the [Bubble Tea](https://github.com/charmbracelet/bubbletea) framework for the TUI (Terminal User Interface) and [Lip Gloss](https://github.com/charmbracelet/lipgloss) for styling.
 
@@ -17,7 +17,7 @@ Experience classic arcade action directly in your terminal with smooth animation
 
 ##  Download & Run
 
-You can download the pre-built binaries for your operating system from the [GitHub Releases page](https://github.com/your-username/galactui/releases).
+You can download the pre-built binaries for your operating system from the [GitHub Releases page](https://github.com/Smiley2507/galactui/releases/).
 
 ### Linux
 1. Download `galactui-linux`.
@@ -48,7 +48,7 @@ You can download the pre-built binaries for your operating system from the [GitH
 
 ## How to Play
 
-[![game-screen](/game-screen.png)]
+![game-screen](/game-screen.png)
 
 
 ### Controls
@@ -73,7 +73,7 @@ You can download the pre-built binaries for your operating system from the [GitH
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/galactui.git
+   git clone https://github.com/Smiley2507/galactui.git
    cd galactui
    ```
 
@@ -115,3 +115,5 @@ To clean up built binaries:
 ```bash
 make clean
 ```
+#### **Happy Gaming!**
+---
